@@ -8,4 +8,4 @@ It analyzes audience retention heatmaps alongside video transcripts using Google
 
 - 🚀 **Current Project**: [galihjuansaputra/cheat-clip](https://github.com/galihjuansaputra/cheat-clip)
 - 🎥 **YouTube**: [@Johansa](https://www.youtube.com/@Johansa)
-- 📬 **Get in touch**: [Email](mailto:galih.juansaputra@gmail.com)
+- 📬 **Get in touch**: galih.juansaputra@gmail.com
